@@ -1,6 +1,6 @@
 # Architect Theme for Sphinx
 
-This is a [Sphinx][1] theme that is an adaptation of [@jasonlong][2]'s *Architect* theme on [GitHub Pages][3].
+This is a [Sphinx][1] theme that is an adaptation of [@jasonlong][2]'s [Architect theme][7] on [GitHub Pages][3].
 
 ![](http://cl.ly/image/1x0Q3213330G/content)
 
@@ -18,3 +18,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unpor
 [4]: http://creativecommons.org/licenses/by-sa/3.0/
 [5]: http://parkin1.github.io/pypore/
 [6]: http://parkin1.github.io/pypore/sphinx-docs/build/html/index.html
+[7]: https://github.com/jasonlong/architect-theme
